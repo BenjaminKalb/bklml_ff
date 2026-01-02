@@ -19,9 +19,9 @@
 
 **Arch Linux (AUR):**
 ```bash
-yay -S bklml-finder
+yay -S bklml-ff
 # or
-paru -S bklml-finder
+paru -S bklml-ff
 ```
 
 **Any system (PyPI):**
